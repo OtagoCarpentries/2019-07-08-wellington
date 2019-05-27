@@ -326,7 +326,6 @@ please preview your site before committing, and make sure to run
       <li role="presentation"><a data-os="macos" href="#rstats-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
       <li role="presentation"><a data-os="linux" href="#rstats-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
-
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="rstats-windows">
         <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
@@ -400,8 +399,7 @@ please preview your site before committing, and make sure to run
         <p>
           Visit <a href="https://sqlitebrowser.org/dl/">SqliteBrowser</a> and download and install it. Version 3.11.0 or greater.
         </p>
-      </article>
-      
+      </article>      
     </div>
     {%else%}
     <div class="tab-content">
@@ -413,9 +411,7 @@ please preview your site before committing, and make sure to run
             <li>Paste it into the window that git bash opened. If you're unsure, ask an instructor for help</li>
             <li>You should see something like <code>3.27.2 2019-02-25 16:06:06 ...</code></li>
           </ul>
-            
           <p>If you want to do this manually, download <a href="https://www.sqlite.org/2019/sqlite-tools-win32-x86-3270200.zip">sqlite3</a>, make a bin directory in the user's home directory, unzip sqlite3, move it into the bin directory, and then add the bin directory to the path.</p>
-
         </p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="sql-macos">
@@ -461,7 +457,6 @@ please preview your site before committing, and make sure to run
       <li role="presentation"><a data-os="macos" href="#openrefine-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
       <li role="presentation"><a data-os="linux" href="#openrefine-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
-
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="openrefine-windows">
         <p>
